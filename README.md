@@ -42,12 +42,6 @@ went_on_backorder – 	Product actually went on backorder. This is the target va
 Problem Statement
 1.	Do a complete EDA in the python notebook file
 2.	Build a solution design architecture for end to end solution starting from data ingestion to deployment with a detail documentation.
-3.	Deploy the end to end automated solution to AWS.
-4.	Create a user interface for bulk testing uploaded through excel sheet and for a single record entry both.
-5.	Maintain log for each and every prediction request into any database
-6.	Create a low level documentation for end to end solution and deployment
-7.	Define a retraining approach in your documentation
-8.	Create an end to end video of the working of the project
 
 On the basis of the given data in the features column and target column, 
 you have to build a model which will be able to predict whether an order for a given product can go on backorder or not.
